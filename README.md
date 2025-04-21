@@ -30,16 +30,6 @@ O **GoldLux** é um site estático desenvolvido para exibir com destaque os aces
 
 ## 🖼️ Prints do Projeto
 
-### Página Inicial  
-![Home Page](./prints/home.png)
-
-### Galeria de Produtos  
-![Produtos](./prints/galeria.png)
-
-### Página Sobre  
-![Sobre](./prints/sobre.png)
-
-
 ---
 
 ## 🚀 Como Executar o Projeto
